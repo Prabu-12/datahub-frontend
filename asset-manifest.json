@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dbb181cc.css",
+    "main.js": "/static/js/main.88434559.js",
+    "static/media/Registered Successfully.svg": "/static/media/Registered Successfully.1edf0d72f4cbee2feaa2431108be23e7.svg",
+    "static/media/roleDetails.svg": "/static/media/roleDetails.4ee31a38e79efdff2ab864a8e6edb91a.svg",
+    "static/media/Login-Illustration.svg": "/static/media/Login-Illustration.fff00aafa3c70c0521ddd59c4a635c84.svg",
+    "static/media/TenantRegisterImg.svg": "/static/media/TenantRegisterImg.233e34b83799c1cb2ce96c47e80c719b.svg",
+    "static/media/Decision-Minds-Logo.svg": "/static/media/Decision-Minds-Logo.9d365f070f29a4e2f8ba6a6f004a6e65.svg",
+    "static/media/man.png": "/static/media/man.6563ccb3269e952023f8.png",
+    "static/media/settings.png": "/static/media/settings.b42337628d7798b4c020.png",
+    "static/media/page-not-found.svg": "/static/media/page-not-found.da5dd402ab0c02353552898a098b8367.svg",
+    "static/media/profile.png": "/static/media/profile.5faf09a7795d28bf5a2b.png",
+    "static/media/Signup-Illustration.svg": "/static/media/Signup-Illustration.9ab0b9d4a78d04fa36fa93c310bc6974.svg",
+    "static/media/CubeLoader.gif": "/static/media/CubeLoader.1c56ee8d70b610b2f532.gif",
+    "static/media/coordinate.png": "/static/media/coordinate.206ed9c668337fa472c4.png",
+    "static/media/Google-Icon.png": "/static/media/Google-Icon.428f4c593b2d5c300dd1.png",
+    "static/media/DMX datahub.svg": "/static/media/DMX datahub.9b38dc31bca02c998922165305a2aa65.svg",
+    "static/media/datahub white.svg": "/static/media/datahub white.9d17b58c9aa785fde2cf964e639d98a5.svg",
+    "static/media/mx white.svg": "/static/media/mx white.cb1c2705e28f05244b4cbdbe3d735a45.svg",
+    "static/media/Small DH logo 1.svg": "/static/media/Small DH logo 1.a3694b21d75368c9457fccfbfd5c6c4d.svg",
+    "static/media/teams-icon.svg": "/static/media/teams-icon.86046e877804a1068e4a82c4d6b16c54.svg",
+    "index.html": "/index.html",
+    "main.dbb181cc.css.map": "/static/css/main.dbb181cc.css.map",
+    "main.88434559.js.map": "/static/js/main.88434559.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbb181cc.css",
+    "static/js/main.88434559.js"
+  ]
+}
